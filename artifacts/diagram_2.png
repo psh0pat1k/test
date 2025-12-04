@@ -1,0 +1,6 @@
+PLACEHOLDER: экспортируйте изображение из Mermaid Live Editor.
+
+Инструкция:
+1. Откройте `artifacts/diagram_2_code.md`, скопируйте блок внутри ```mermaid
+2. Вставьте в https://mermaid.live/
+3. Actions -> Download PNG -> сохраните как `artifacts/diagram_2.png` (замените этот файл)
